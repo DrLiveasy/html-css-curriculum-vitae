@@ -1,25 +1,32 @@
 .background {
-    background-color : rgb(216, 216, 216);
-    text-align: center;   
-    width: 1000px ;   
+    background-color: rgb(216, 216, 216);
+    text-align: center;
 }
 
 hr {
     border: 2px solid goldenrod;
-    width: 1000px;    
 }
 
-.textcolor {
+h2 {
     color: goldenrod;
 
 }
 
-.font1{
+.font1 {
     font-style: italic;
 }
 
-.pagefoot{
+.pagefoot {
     background-color: white;
     text-align: center;
-    width: 1000px;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+}
+
+.img2 {
+    width: 200px;
+
 }
