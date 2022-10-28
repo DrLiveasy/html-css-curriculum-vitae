@@ -17,3 +17,9 @@ hr {
 .font1{
     font-style: italic;
 }
+
+.pagefoot{
+    background-color: white;
+    text-align: center;
+    width: 1000px;
+}
