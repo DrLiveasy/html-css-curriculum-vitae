@@ -5,6 +5,15 @@
 }
 
 hr {
-    border: 2px solid gold;
+    border: 2px solid goldenrod;
     width: 1000px;
+}
+
+.textcolor {
+    color: goldenrod;
+
+}
+
+.font1{
+    font-style: italic;
 }
